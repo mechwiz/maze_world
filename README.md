@@ -27,13 +27,25 @@ This leads to the second part of the maze design - building a small-scale versio
 ### Small Scale Maze Design
 The small-scale maze design assembly model and actual laser-cut model are shown side by side below:
 
-<div align="center">
-    <img src="small_scale_model/imgs/rendered/small_scale.jpg" width="400px" alt="" /><img hspace="20"/><img src="small_scale_model/imgs/real/small_scale.jpg" width="400px" alt="" />
-</div>
+CAD Model                                                                          | Laser-cut Model
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/small_scale.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/small_scale.jpg" width="400px" alt="" />
 
 The module pieces incorporate are described in the table below.
 
-CAD Model                 | Laser-cut Model
-:---------------------------:|:----------------------------------------:
-<img src="small_scale_model/imgs/rendered/small_scale.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/small_scale.jpg" width="400px" alt="" />
+CAD Model                                                                          | Laser-cut Model
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/module_6cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_6cell.jpg" width="400px" alt="" />
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/module_2cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_2cell.jpg" width="400px" alt="" />
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/obstacle.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/obstacle.jpg" width="400px" alt="" />
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/border.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/border.jpg" width="400px" alt="" />
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/wall.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/wall.jpg" width="400px" alt="" />
+:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
+<img src="small_scale_model/imgs/rendered/wall_covers.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/wall_covers.jpg" width="400px" alt="" />
+
+
 
