@@ -28,8 +28,8 @@ This leads to the second part of the maze design - building a small-scale versio
 The small-scale maze design assembly model and actual laser-cut model are shown side by side below:
 
 <div class="row uniform 50%">
-    <div class="6u"><span class="image fit"><img src="small_scale_model/imgs/rendered/small_scale.jpg" alt="" /></span></div>
-    <div class="6u"><span class="image fit"><img src="small_scale_model/imgs/real/small_scale.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="small_scale_model/imgs/rendered/small_scale.jpg" width="400px" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="small_scale_model/imgs/real/small_scale.jpg" width="400px" alt="" /></span></div>
 </div>
 
 The module pieces incorporate are described in the table below.
