@@ -31,7 +31,7 @@ CAD Model                                                                       
 :---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
 <img src="small_scale_model/imgs/rendered/small_scale.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/small_scale.jpg" width="400px" alt="" />
 
-The module pieces incorporate are described in the table below.
+The module pieces incorporated are described in the table below.
 
 Description| CAD Model                                                                           | Laser-cut Model
 :----------|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:
