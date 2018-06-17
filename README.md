@@ -35,14 +35,12 @@ The module pieces incorporate are described in the table below.
 
 Description| CAD Model                                                                           | Laser-cut Model
 :----------|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:
-Modular interlocking floor piece with 7 cells
-- DXF files
-- SVG files | <img src="small_scale_model/imgs/rendered/module_6cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_6cell.jpg" width="400px" alt="" />
-Modular interlocking floor piece with 2 cells | <img src="small_scale_model/imgs/rendered/module_2cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_2cell.jpg" width="400px" alt="" />
-Obstacle for blocking path of Sphero (uses a press-fit design) | <img src="small_scale_model/imgs/rendered/obstacle.jpg" width="400px" alt="" />     | <img src="small_scale_model/imgs/real/obstacle.jpg" width="400px" alt="" />
-Interlocking border piece with the floor and wall pieces | <img src="small_scale_model/imgs/rendered/border.jpg" width="400px" alt="" />       | <img src="small_scale_model/imgs/real/border.jpg" width="400px" alt="" />
-Modular wall that fits into the border pieces | <img src="small_scale_model/imgs/rendered/wall.jpg" width="400px" alt="" />         | <img src="small_scale_model/imgs/real/wall.jpg" width="400px" alt="" />
-Modular wall cover that secures the wall pieces together | <img src="small_scale_model/imgs/rendered/wall_covers.jpg" width="400px" alt="" />  | <img src="small_scale_model/imgs/real/wall_covers.jpg" width="400px" alt="" />
+Modular interlocking floor piece with 7 cells <ul><li>[DXF Files](small_scale_model/modules/module_6cell/dxf)</li><li>[SVG Files](small_scale_model/modules/module_6cell/svg)</li></ul> | <img src="small_scale_model/imgs/rendered/module_6cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_6cell.jpg" width="400px" alt="" />
+Modular interlocking floor piece with 2 cells <ul><li>[DXF Files](small_scale_model/modules/module_2cell/dxf)</li><li>[SVG Files](small_scale_model/modules/module_2cell/svg)</li></ul>| <img src="small_scale_model/imgs/rendered/module_2cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_2cell.jpg" width="400px" alt="" />
+Obstacle for blocking path of Sphero (uses a press-fit design) <ul><li>[DXF Files](small_scale_model/modules/obstacles/dxf)</li><li>[SVG Files](small_scale_model/modules/obstacles/svg)</li></ul>| <img src="small_scale_model/imgs/rendered/obstacle.jpg" width="400px" alt="" />     | <img src="small_scale_model/imgs/real/obstacle.jpg" width="400px" alt="" />
+Interlocking border piece with the floor and wall pieces <ul><li>[DXF Files](small_scale_model/modules/walls/dxf)</li><li>[SVG Files](small_scale_model/modules/border/svg)</li></ul>| <img src="small_scale_model/imgs/rendered/border.jpg" width="400px" alt="" />       | <img src="small_scale_model/imgs/real/border.jpg" width="400px" alt="" />
+Modular wall that fits into the border pieces <ul><li>[DXF Files](small_scale_model/modules/module_6cell/dxf)</li><li>[SVG Files](small_scale_model/modules/walls/svg)</li></ul>| <img src="small_scale_model/imgs/rendered/wall.jpg" width="400px" alt="" />         | <img src="small_scale_model/imgs/real/wall.jpg" width="400px" alt="" />
+Modular wall cover that secures the wall pieces together <ul><li>[DXF Files](small_scale_model/modules/wall_covers/dxf)</li><li>[SVG Files](small_scale_model/modules/wall_covers/svg)</li></ul>| <img src="small_scale_model/imgs/rendered/wall_covers.jpg" width="400px" alt="" />  | <img src="small_scale_model/imgs/real/wall_covers.jpg" width="400px" alt="" />
 
 
 
