@@ -35,7 +35,9 @@ The module pieces incorporate are described in the table below.
 
 Description| CAD Model                                                                           | Laser-cut Model
 :----------|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:
-Modular interlocking floor piece with 7 cells | <img src="small_scale_model/imgs/rendered/module_6cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_6cell.jpg" width="400px" alt="" />
+Modular interlocking floor piece with 7 cells
+- DXF files
+- SVG files | <img src="small_scale_model/imgs/rendered/module_6cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_6cell.jpg" width="400px" alt="" />
 Modular interlocking floor piece with 2 cells | <img src="small_scale_model/imgs/rendered/module_2cell.jpg" width="400px" alt="" /> | <img src="small_scale_model/imgs/real/module_2cell.jpg" width="400px" alt="" />
 Obstacle for blocking path of Sphero (uses a press-fit design) | <img src="small_scale_model/imgs/rendered/obstacle.jpg" width="400px" alt="" />     | <img src="small_scale_model/imgs/real/obstacle.jpg" width="400px" alt="" />
 Interlocking border piece with the floor and wall pieces | <img src="small_scale_model/imgs/rendered/border.jpg" width="400px" alt="" />       | <img src="small_scale_model/imgs/real/border.jpg" width="400px" alt="" />
