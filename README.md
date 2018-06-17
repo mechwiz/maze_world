@@ -32,3 +32,8 @@ The small-scale maze design assembly model and actual laser-cut model are shown 
 </div>
 
 The module pieces incorporate are described in the table below.
+
+CAD Model                 | Laser-cut Model
+:---------------------------:|:----------------------------------------:
+![small_scale.jpg](small_scale_model/imgs/rendered/small_scale.jpg){:width="400px"} | ![small_scale.jpg](small_scale_model/imgs/real/small_scale.jpg){:width="400px"}
+
