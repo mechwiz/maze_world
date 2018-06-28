@@ -45,11 +45,7 @@ Modular wall cover that secures the wall pieces together <ul><li>[DXF Files](sma
 ### Full Scale Maze Design
 The current full-scale maze design assembly model is shown below. The laser-cut model won't be assembled or cut until testing with the small-scale model is done and any modificiations are incorporated into the final design.
 
-<div align="center">
-CAD Model                                                                          |
-:---------------------------------------------------------------------------------:|
-<img src="full_scale_model/imgs/rendered/full_scale.jpg" width="700px" alt="" /> |
-</div>
+<div align="center"><img src="full_scale_model/imgs/rendered/full_scale.jpg" width="700px" alt="" /></div>
 
 The module pieces incorporated are described in the table below.
 
