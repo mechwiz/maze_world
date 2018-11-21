@@ -12,7 +12,7 @@
    version="1.1"
    id="svg11428"
    sodipodi:docname="border_2cell_mult.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata11432">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="1018"
      id="namedview11430"
      showgrid="false"
      inkscape:zoom="2.0460068"
-     inkscape:cx="156.86532"
-     inkscape:cy="974.90021"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="64.878498"
+     inkscape:cy="983.99956"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g11426" />
   <desc
@@ -108,8 +108,8 @@
        id="path10840"
        inkscape:connector-curvature="0" />
     <path
-       d="M 136.78589,10.883269 V 36.482218"
-       style="fill:none;stroke:#000000;stroke-width:0.50699884;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 136.78589,28.219384 v 8.262834"
+       style="fill:none;stroke:#000000;stroke-width:0.507;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path10842"
        inkscape:connector-curvature="0" />
     <path
@@ -463,8 +463,8 @@
        id="path10982"
        inkscape:connector-curvature="0" />
     <path
-       d="m 136.78589,72.261469 v 25.59896"
-       style="fill:none;stroke:#000000;stroke-width:0.50699884;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 136.78589,89.597574 v 8.262855"
+       style="fill:none;stroke:#000000;stroke-width:0.507;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path10984"
        inkscape:connector-curvature="0" />
     <path
@@ -643,8 +643,8 @@
        id="path11054"
        inkscape:connector-curvature="0" />
     <path
-       d="m 136.78589,133.63967 v 25.59896"
-       style="fill:none;stroke:#000000;stroke-width:0.50699884;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 136.78589,150.97579 v 8.26284"
+       style="fill:none;stroke:#000000;stroke-width:0.507;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path11056"
        inkscape:connector-curvature="0" />
     <path
@@ -823,8 +823,8 @@
        id="path11126"
        inkscape:connector-curvature="0" />
     <path
-       d="m 136.78589,195.01787 v 25.59896"
-       style="fill:none;stroke:#000000;stroke-width:0.50699884;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 136.78589,212.35394 v 8.26289"
+       style="fill:none;stroke:#000000;stroke-width:0.507;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path11128"
        inkscape:connector-curvature="0" />
     <path
