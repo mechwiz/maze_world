@@ -43,7 +43,7 @@ Modular wall that fits into the border pieces <ul><li>[DXF Files](small_scale_mo
 Modular wall cover that secures the wall pieces together <ul><li>[DXF Files](small_scale_model/modules/wall_covers/dxf)</li><li>[SVG Files](small_scale_model/modules/wall_covers/svg)</li></ul> <br /> _6 modules_ | <img src="small_scale_model/imgs/rendered/wall_covers.jpg" width="400px" alt="" />  | <img src="small_scale_model/imgs/real/wall_covers.jpg" width="400px" alt="" />
 
 ### Full Scale Maze Design
-The current full-scale maze design assembly model is shown below. The laser-cut model won't be assembled or cut until testing with the small-scale model is done and any modificiations are incorporated into the final design.
+The current full-scale maze design assembly model is shown below.
 
 <div align="center"><img src="full_scale_model_mini/imgs/rendered/full_scale.jpg" width="700px" alt="" /></div>
 
