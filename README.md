@@ -71,9 +71,9 @@ Modular wall cover that secures the wall pieces together <ul><li>[DXF Files](ful
 An ultimate goal of the project is to have a mouse be chased around by a Sphero and to analyze the path that the mouse takes so that our predator-prey path models can be verified and/or updated. Since mice can jump fairly high (even higher than the current 0.5ft height of the maze), a plexiglass cover (such as 2 pieces of [this](https://www.homedepot.com/p/OPTIX-48-in-x-96-in-x-1-8-in-Clear-Acrylic-Sheet-MC-100S/205351353) along the length of the maze) can be set over the maze to prevent any mice from jumping over obstacles and walls. The cover can be supported by the walls of the maze and any obstacles within. In the event that this affects how the mice will plan, an alternative approach (though much more involving) is to make modifications to the wall components within the maze as described in the following procedure:
 
 1. Open up the following part files in Solidworks:
-  - [wall_2cell](full_scale_mini/modules/wall_2cell/wall_2cell_mult.SLDPRT)
-  - [wall_4cell](full_scale_mini/modules/wall_4cell/wall_4cell_mult.SLDPRT)
-  - [obstacle_wall_mult](full_scale_mini/modules/obstacles/obstacle_wall_mult.SLDPRT)
+  - [wall_2cell](full_scale_model_mini/modules/wall_2cell/wall_2cell_mult.SLDPRT)
+  - [wall_4cell](full_scale_model_mini/modules/wall_4cell/wall_4cell_mult.SLDPRT)
+  - [obstacle_wall_mult](full_scale_model_mini/modules/obstacles/obstacle_wall_mult.SLDPRT)
 2. Change the height dimension in their corresponding sketches from 6 inches to however many inches are desired
 3. Save the files as dxf files (from the top plane)
 4. Import these files into Inkscape, and save them as svg files
