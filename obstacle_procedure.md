@@ -19,36 +19,36 @@ If you would like to cut out multiple parts at one time, you can use the svg fil
 #### Obstacle Building Procedure
 1. Take an obstacle base and lay it down so that the nice side is touching the table. Then add some wood glue as shown below.
 
-![imgs/glue.jpg]
+![glue](imgs/glue.jpg)
 
 2. Take an obstacle securing piece and place it on the glue as shown. Press down firmly on it.
 
-![imgs/secure.jpg]
+![secure](imgs/secure.jpg)
 
 3. Flip the glued obstacle base over.
 
-![imgs/hole_rdy.jpg]
+![hole_dry](imgs/hole_rdy.jpg)
 
 4. Put a drop of glue into each of the holes
 
-![imgs/hole_glue.jpg]
+![hole_glue](imgs/hole_glue.jpg)
 
 5. Place 1 dowel pin firmly into each of the holes and wipe any glue that spills out of the hole
 
-![imgs/dowels.jpg]
+![dowels](imgs/dowels.jpg)
 
 6. Place the obstacle base onto an upside down 7-cell modular piece to dry as shown. Wipe any glue that formed around the lip of the securing piece.
 
-![imgs/glue_dry.jpg]
+![glue_dry](imgs/glue_dry.jpg)
 
 7. Depending on how many obstacles you are making, fill the 7-cell modular piece to its capacity. Then place some heavy books on it so that the glue can dry on the pieces while they are being pressed together. Wait for an hour or two.
 
-![imgs/full_jig.jpg]
+![full_jig](imgs/full_jig.jpg)
 
 8. Take an obstacle cover and flip it so that the nice side is touching the table. Place walls into each of the 6 spots on the cover as shown. Make sure the nice sides are facing towards the outside of the obstacle.
 
-![imgs/walls.jpg]
+![walls](imgs/walls.jpg)
 
 9. Using a mallet, and some finger dexterity, take a now dry glued obstacle base and position it so that the obstacle wall inserts are right below their corresponding holes on the obstacle base. Hammer in the base into the wall inserts as shown.
 
-![imgs/complete.jpg]
+![complete](imgs/complete.jpg)
