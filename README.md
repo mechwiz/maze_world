@@ -81,4 +81,4 @@ An ultimate goal of the project is to have a mouse be chased around by a Sphero 
   - For the **wall_2cell** and **wall_4cell** walls, use [1/4 inch 20"x30" birch plywood](https://www.woodworkerssource.com/shop/product/14balpack3.html)
   - For the **obstacle_wall** walls, use [1/8 inch 20"x30" birch plywood](https://www.woodworkerssource.com/shop/product/18balpack3.html)
 6. Replace the shorter walls with the taller walls
-  - Just a fair warning, this may be tedious work when it comes to the obstacles. You will first need to remove the current walls using a flat-head screwdriver as a lever since the obstacles have a press-fit design. You will then need to install the new walls as described [here](obstacle_procedure.md))
+  - Just a fair warning, this may be tedious work when it comes to the obstacles. You will first need to remove the current walls using a flat-head screwdriver as a lever since the obstacles have a press-fit design. You will then need to install the new walls as described in the obstacle building manual [here](obstacle_procedure.md). This manual is also helpful in case more obstacles need to be built.
