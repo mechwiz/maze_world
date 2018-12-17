@@ -10,7 +10,7 @@ Each obstacle consists of the following parts:
 - [Obstacle Base](full_scale_model_mini/modules/obstacles/svg/obstacle_base.svg)
 - [Obstacle Cover](full_scale_model_mini/modules/obstacles/svg/obstacle_cover.svg)
 - [Obstacle Securing Piece](full_scale_model_mini/modules/obstacles/svg/obstacle_secure.svg)
-- [Obstacle Walls](full_scale_model_mini/modules/obstacles/svg/obstacle_wall.svg)
+- 6 [Obstacle Walls](full_scale_model_mini/modules/obstacles/svg/obstacle_wall.svg)
 - 3 [dowel pins](https://www.mcmaster.com/90145a537)
 
 If you would like to cut out multiple parts at one time, you can use the svg files where "\_mult" is added on to the file name. The rule of thumb for laser-cutting these files is to cut out the blue-lines on the first pass, and the black lines on the next pass.
@@ -19,7 +19,7 @@ If you would like to cut out multiple parts at one time, you can use the svg fil
 #### Obstacle Building Procedure
 1. Take an obstacle base and lay it down so that the nice side is touching the table. Then add some wood glue as shown below.
 
-![glue](imgs/glue.jpg)
+![glue](imgs/glue.jpg =400x)
 
 2. Take an obstacle securing piece and place it on the glue as shown. Press down firmly on it.
 
