@@ -19,7 +19,7 @@ If you would like to cut out multiple parts at one time, you can use the svg fil
 #### Obstacle Building Procedure
 1. Take an obstacle base and lay it down so that the nice side is touching the table. Then add some wood glue as shown below.
 
-![glue](imgs/glue.jpg =400x)
+![glue](imgs/glue.jpg =400px)
 
 2. Take an obstacle securing piece and place it on the glue as shown. Press down firmly on it.
 
