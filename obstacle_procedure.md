@@ -27,7 +27,7 @@ If you would like to cut out multiple parts at one time, you can use the svg fil
 
 3. Flip the glued obstacle base over.
 
-<img src="imgs/hole_dry.jpg" width="400px" alt="" />
+<img src="imgs/hole_rdy.jpg" width="400px" alt="" />
 
 4. Put a drop of glue into each of the holes
 
